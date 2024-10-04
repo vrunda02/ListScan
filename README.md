@@ -4,3 +4,5 @@ Features -
 Handwritten List Scanning: Use your phone camera to scan handwritten grocery lists. 
 Seamless Integration: Automatically adds matched items to your cart on the online grocery app, streamlining your shopping process. Uses the data pre-stored in the database. 
 Skills used - Machine learning algorithms(keras_ocr pipeline), Python, Mobile App Development using Android, Figma for Prototype, Firebase for realtime Database.
+Data - Book1.csv is used 
+ModelF is the model file to upload image.
